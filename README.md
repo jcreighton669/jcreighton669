@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jcreighton669
-- 👀 I’m interested in learning and using Machine Learning techniques using Python for business uses. 
-- 🌱 I’m currently learning how to create full scalable web applications for business aqcuisitions and personnel mergers.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning and using Python and Golang for both personal and business uses. 
+- 🌱 I’m currently learning how to create full scalable web applications for personnel mergers.
+- 🏢 I'm used to working on Java projects for work in the HR IT software development space.
 
 <!---
 jcreighton669/jcreighton669 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
