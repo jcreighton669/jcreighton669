@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcreighton669
 - 👀 I’m interested in learning and using Python and Golang for both personal and business uses. 
-- 🌱 I’m currently learning how to create full scalable web applications for personnel mergers.
+- 🌱 I’m currently learning how to create full scalable web applications for personnel projects.
 - 🏢 I'm used to working on Java projects for work in the HR IT software development space.
 
 <!---
